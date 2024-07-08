@@ -1,0 +1,58 @@
+[
+  {
+    "id": "aws-kafka-0",
+    "label": "AWS Kafka Trial",
+    "heading": "AWS Kafka Trial",
+    "formattedLabel": "AWS Kafka Trial",
+    "provider": "AWS",
+    "group": "Trial",
+    "class": "Trial",
+    "plan": "t1.micro",
+    "disk": 163840,
+    "memory": 8192,
+    "vcpus": 4,
+    "nodes": 3,
+    "network_out": 6000,
+    "network_in": 8000,
+    "transfer": 6000,
+    "price_hourly": 0.12,
+    "price": {
+      "hourly": 0.12,
+      "monthly": 80
+      },
+    "subHeadings": [
+      "$80/mo ($0.12/hr)",
+      "4 CPU, 160 GB Storage, 8 GB RAM",
+      "6 TB Transfer",
+      "8 Gbps In / 6 Gbps Out"
+      ]
+    },
+    {
+    "id": "aws-kafka-1",
+    "label": "AWS Kafka Small",
+    "heading": "AWS Kafka Small",
+    "formattedLabel": "AWS Kafka Small",
+    "provider": "AWS",
+    "group": "Small",
+    "class": "Small",
+    "plan": "c7g.xlarge",
+    "disk": 163840,
+    "memory": 8192,
+    "vcpus": 4,
+    "nodes": 3,
+    "network_out": 6000,
+    "network_in": 8000,
+    "transfer": 6000,
+    "price_hourly": 0.12,
+    "price": {
+      "hourly": 0.12,
+      "monthly": 80
+      },
+    "subHeadings": [
+      "$80/mo ($0.12/hr)",
+      "4 CPU, 160 GB Storage, 8 GB RAM",
+      "6 TB Transfer",
+      "8 Gbps In / 6 Gbps Out"
+      ]
+  }
+]

@@ -1,0 +1,4 @@
+[
+    { "provider": "AWS", "id": "AWS", "label": "Amazon Web Services", "vendor": "AWS" },
+    { "provider": "linode", "id": "linode", "label": "Linode", "vendor": "linode" }
+  ]

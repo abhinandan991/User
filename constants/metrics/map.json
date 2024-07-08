@@ -1,0 +1,12 @@
+{
+  "CPU Utilization (%)": "node_cpu_utilization_percent",
+  "Memory Utilization (%)": "node_memory_MemUsed_percent",
+  "Disk Input (Kb/s)": "node_disk_read_kbps",
+  "Disk Output (Kb/s)": " node_disk_written_kbps",
+  "Disk Usage (%)": "node_filesystem_used_percent",
+  "Data Recieved (Kb/s)": "kminion_kafka_received_kbps",
+  "Data Produced (Kb/s)": "kminion_kafka_sent_kbps",
+  "Consumer Lag": "kminion_kafka_consumer_group_topic_partition_lag",
+  "End to End Produce Latency (seconds)": "kminion_end_to_end_produce_latency",
+  "End to End Roundtrip Latency (seconds)": "kminion_end_to_end_roundtrip_latency"
+}

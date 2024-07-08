@@ -1,0 +1,18 @@
+[
+    { 
+        "id": "us-east-1", 
+        "label": "New York, NY", 
+        "country": "us", 
+        "provider": "AWS", 
+        "capabilities": ["Linodes", "Kafka"], 
+        "status": "ok"
+    },
+    { 
+        "id": "us-east-2", 
+        "label": "Newark, NJ", 
+        "country": "us", 
+        "provider": "AWS", 
+        "capabilities": ["Linodes", "Kafka"], 
+        "status": "ok" 
+    }
+]

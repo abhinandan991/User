@@ -1,0 +1,10 @@
+[
+    { 
+        "provider": "linode", 
+        "id": "us-central", 
+        "country": "us", 
+        "label": "Dallas, TX", 
+        "capabilities": ["Linodes", "Kafka"], 
+        "status": "ok" 
+    }
+]
